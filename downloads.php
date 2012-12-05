@@ -23,11 +23,6 @@
 <h3>Installation via Eclipse Update Manager</h3>
 <p>You may most easily install Damos using the Eclipse Update Manager and point it to one of the <a href="/damos/updates/index.php">Damos Update-Sites</a>.</p>
 
-<h3>Downloadable P2 Repositories and SDK dropins</h3>
-<p>
-If you prefer an update-site or an SDK archive, you can download it from <a href="/damos/downloads/index.php">here</a> directly. 
-</p>
-
 </div>
 EOHTML;
 

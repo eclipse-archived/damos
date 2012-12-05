@@ -16,7 +16,7 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>Apart from the provided reference documentation and the <i>new and noteworthy</i> of each release, there are several articles, tutorials, and presentations contributed by the community that explain how Damos work. 
+<p>Documentation about how damos works is still under development. Please look at the <a href="http://www.eclipse.org/forums/eclipse.damos">forum</a> for help from the community.</p>
 
 EOHTML;
 

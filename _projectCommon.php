@@ -85,7 +85,7 @@ else
    	
 	$Nav->addNavSeparator("Download", "/damos/downloads.php", "_self", 3);
    	$Nav->addCustomNav("Update-Sites", "/damos/updates/index.php", "_self", 3);
-   	$Nav->addCustomNav("P2 Repositories & SDK Dropins", "/damos/downloads/index.php", "_self", 3);
+   	$Nav->addCustomNav("P2 Repositories & SDK Dropins", "/damos/downloads.php", "_self", 3);
 	
 	
 	$Nav->addNavSeparator("Getting Involved", "/damos/getting_involved.php", "_self", 3);
