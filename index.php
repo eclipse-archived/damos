@@ -51,6 +51,11 @@ model editors, a simulation environment, and code generators.
 </div>
 
 <div id="rightcolumn">
+<div class="sideitem">
+<h6><img src="/projects/images/egg.gif" align="right">Incubation</h6>
+<div style="text-align:center"><a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" alt="Incubation" align="middle" border="0"></a></div>
+</div>
+			
 <div>
 <h3>Current Status</h3>
 <p>Damos is in incubation phase yet and has not passed the parallel IP process. Because this there is even no early release version.
