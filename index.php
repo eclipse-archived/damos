@@ -47,6 +47,9 @@ specific domain, it is most commonly used in control systems engineering and dig
 signal processing. This project includes all necessary tools such as graphical and textual 
 model editors, a simulation environment, and code generators.
 </p>
+
+<a href="images/blockDiagramEditor.png"><img class="displayed" href="images/blockDiagramEditorSmall.png"></a>
+
 </div>
 </div>
 
