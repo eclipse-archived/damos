@@ -48,7 +48,7 @@ signal processing. This project includes all necessary tools such as graphical a
 model editors, a simulation environment, and code generators.
 </p>
 
-<a href="images/blockDiagramEditor.png"><img class="displayed" href="images/blockDiagramEditorSmall.png"></a>
+<img class="displayed" href="images/blockDiagramEditorSmall.png">
 
 </div>
 </div>
