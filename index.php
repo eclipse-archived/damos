@@ -48,7 +48,7 @@ signal processing. This project includes all necessary tools such as graphical a
 model editors, a simulation environment, and code generators.
 </p>
 
-<img class="displayed" href="images/blockDiagramEditorSmall.png">
+<img class="displayed" width="550" src="images/blockDiagramEditorSmall.png" alt="Damos Snapshot" border="0">
 
 </div>
 </div>
