@@ -32,7 +32,7 @@ $html = <<<EOHTML
 </div>
 
 <div id="midcolumn">
-<h3>Damos (Dataflow-oriented development environment)</h3>
+<h3>Damos</h3>
 
 <div id="introText">
 <p>
