@@ -50,6 +50,8 @@ model editors, a simulation environment, and code generators.
 
 <img class="displayed" width="550" src="images/blockDiagramEditorSmall.png" alt="Damos Snapshot" border="0">
 
+<p></p>
+
 </div>
 </div>
 
