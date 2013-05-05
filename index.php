@@ -80,7 +80,7 @@ While the bulk of information about the Damos project can be found here, you may
 </div>
 
 <div>
-<p><img src="images/itea2.jpeg" border="0"></p>
+<p><img src="images/itea2.png" border="0"></p>
 <p><img src="images/bmbf.jpeg" border="0"></p>
 <p>gefördert durch das BMBF, 01IS11020H</p>
 </div>
