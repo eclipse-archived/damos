@@ -78,6 +78,13 @@ model editors, a simulation environment, and code generators.
 While the bulk of information about the Damos project can be found here, you may also consider the <a href="http://wiki.eclipse.org/damos">Damos Wiki</a> as a source for further information.
 </p>
 </div>
+
+<div>
+<p><img src="images/idea2.jpeg" border="0"></p>
+<p><img src="images/bmbf.jpeg" border="0"></p>
+<p>gefördert durch das BMBF, 01IS11020H</p>
+</div>
+
 </div>
 EOHTML;
 
